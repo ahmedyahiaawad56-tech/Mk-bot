@@ -133,7 +133,7 @@ global.decor = {
 
 //new
 global.prefix = ['.']
-global.sessionName = 'session' // Jangan di ubah takut nanti error
+global.sessionName = 'drakonis~R3UDVS4b#Wcai8YfyZkxf6Y_7tMHuFuip4SHlcojgiELebfTBTWE' // Jangan di ubah takut nanti error
 global.hituet = 0
 //media target
 global.thum = fs.readFileSync("./data/image/thumb.jpg") //ur thumb pic
